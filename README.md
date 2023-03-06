@@ -11,5 +11,7 @@
 | Comando: | Funcion: | 
 |----------|----------|
 | cd       | Cambio de directorio         | 
-| Row 2    | Cell 5   | 
-| Row 3    | Cell 8   | 
+| pwd   | Localiza la ruta del directorio de trabajo en el que te encuentras.   | 
+| mkdir    | Permite crear directorios   |
+| find | Buscar archivos|
+| touch | Crea cualquier tipo nuevo de archivo |
