@@ -1,7 +1,5 @@
 ### Hi exoticos!👋
 
-<!--
-
 **I'm Miguel Angel Gonzalez** 
 
 - 🔭 I’m currently working on ...
@@ -12,4 +10,4 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
