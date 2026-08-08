@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-111827?style=for-the-badge)](https://exoticdevelopment.github.io/mi-portafolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-ExoticDevelopment-181717?style=for-the-badge&logo=github)](https://github.com/Exoticdevelopment)
-[![Discord](https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](TU_LINK_DE_DISCORD)
+[![Discord](https://img.shields.io/badge/Discord-exoticdev-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/693124435401637896)
 
 <br>
 
