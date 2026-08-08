@@ -300,7 +300,7 @@ Connect with me and other people interested in technology, programming and learn
 
 <br>
 
-[![Join Discord](https://img.shields.io/badge/💬_JOIN_MY_DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](TU_LINK_DE_DISCORD)
+[![Discord](https://img.shields.io/badge/Discord-exoticdev-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/693124435401637896)
 
 </div>
 
